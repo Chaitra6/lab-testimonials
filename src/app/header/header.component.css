@@ -1,0 +1,18 @@
+header{   
+    
+    margin-bottom: 10px;
+}
+
+
+ul{
+    list-style-type: none;
+    margin-top: 0;
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+
+
+
+

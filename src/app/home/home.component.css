@@ -1,0 +1,26 @@
+.image{
+    float: right;
+    height: 22em;
+    width: 45em;
+}
+
+.home{
+    padding-top: 2em;
+    padding-left: 13em;
+    padding-right: 10em;
+    height: 22em;
+}
+
+h1{
+    color: orangered;
+    
+}
+
+.p2{
+    font-weight: bolder;
+}
+
+.p3{
+    color: orangered;
+    font-weight: lighter;
+}
